@@ -1,0 +1,94 @@
+.navbar {
+	background-color: #3EA99F !important;
+}
+.login-container {
+	margin-top: 50px;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.header {
+	background-color: #e0e0e0;
+	width: 100%;
+	height: 380px;
+	margin-top: -20px;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.required {
+	color: red;
+}
+.bgdark {
+	color: #fff;
+}
+.btn-flat {
+	border: 0px;
+	border-radius: 0px;
+}
+.donasi thead tr th {
+	margin: auto;
+	text-align: center;
+	vertical-align: middle;
+}
+.pp-container {
+	height: 100px !important;
+}
+.btn-pp-upload {
+	width: 100%;
+	border-radius: 0px;
+	position: relative;
+}
+.lembaga {
+	height: 500px !important;
+}
+.table thead tr th {
+	text-align: center;
+	vertical-align: middle;
+}
+.table tbody tr td {
+	vertical-align: middle;
+}
+.list li {
+	text-align: justify;
+}
+.post-category {
+	background-color: #222;
+	padding-top: 1px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.post-category-title {
+	font-size: 18px;
+	color: #fff;
+}
+.post {
+	border: 1px solid #e0e0e0;
+	padding: 10px;
+}
+.post-title {
+	font-size: 18px;
+	color: #222;
+}
+.sidebar {
+	border: 1px solid #e0e0e0;
+}
+.sidebar-header {
+	background-color: #222;
+	padding-top: 1px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.sidebar-title {
+	font-size: 18px;
+	color: #fff;
+}
+.sidebar-content {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.sidebar-item li {
+	list-style-type: square;
+}
